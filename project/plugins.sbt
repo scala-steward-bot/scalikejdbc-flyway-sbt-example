@@ -15,4 +15,3 @@ libraryDependencies += "com.mysql" % "mysql-connector-j" % mysqlDriverVersion
 addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.6.0")
 
 libraryDependencySchemes += "org.scala-lang.modules" %% "scala-parser-combinators" % "always"
-libraryDependencySchemes += "org.scala-lang.modules" %% "scala-xml" % "always"
